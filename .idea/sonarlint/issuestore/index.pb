@@ -3,8 +3,6 @@
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-†
-Vsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/Metodo.java,e\3\e3efb2282a5d9f37bc974add8b104095cf6fc1e4
 —
 gsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/command/ActualizarMetodoDePago.java,7\c\7cb5fe697e90fbe4e49da23a29181bb3b0ff411e
 Œ
