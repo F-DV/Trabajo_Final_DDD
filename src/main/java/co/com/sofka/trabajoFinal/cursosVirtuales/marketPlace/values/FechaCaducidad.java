@@ -9,8 +9,8 @@ public class FechaCaducidad implements ValueObject<Date> {
     private final Date fechaCaducidad;
 
     public FechaCaducidad(Date fechaCaducidad) {
-        //todo validar fecha de caducidad
-        this.fechaCaducidad = fechaCaducidad;
+
+        this.fechaCaducidad = Objects.requireNonNull(fechaCaducidad);
     }
 
     @Override

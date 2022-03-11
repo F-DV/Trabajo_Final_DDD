@@ -5,8 +5,6 @@
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
 †
 Vsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/Metodo.java,e\3\e3efb2282a5d9f37bc974add8b104095cf6fc1e4
-Ž
-^src/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/FechaCaducidad.java,a\1\a1742a891e8fd86f096d41b8634bb535220d79ef
 —
 gsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/command/ActualizarMetodoDePago.java,7\c\7cb5fe697e90fbe4e49da23a29181bb3b0ff411e
 ”
@@ -25,3 +23,9 @@ Vsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/Pago
 [src/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/event/PlanAÃ±adido.java,a\2\a2e721ddabf47638384ab7e2e1472ee20c8d4d93
 ˆ
 Xsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/PerfilId.java,e\0\e036c98be767e0eacb10f28abc1c174fb945a254
+}
+Msrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/Pago.java,6\c\6cbca8e98bf1f4f7a2468d989ec963c5377d3fe5
+
+Osrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/Perfil.java,4\a\4ac01032017a82e34d9ea73ba7b06d249a426db2
+}
+Msrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/Plan.java,3\7\3778bda5d229f7b1e0cb5f171885a8f2fb5d462d
