@@ -21,7 +21,5 @@ Vsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/Pago
 Xsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/PerfilId.java,e\0\e036c98be767e0eacb10f28abc1c174fb945a254
 }
 Msrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/Pago.java,6\c\6cbca8e98bf1f4f7a2468d989ec963c5377d3fe5
-
-Osrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/Perfil.java,4\a\4ac01032017a82e34d9ea73ba7b06d249a426db2
 }
 Msrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/Plan.java,3\7\3778bda5d229f7b1e0cb5f171885a8f2fb5d462d

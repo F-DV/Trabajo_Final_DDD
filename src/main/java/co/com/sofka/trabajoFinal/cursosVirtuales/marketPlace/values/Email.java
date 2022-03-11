@@ -1,5 +1,6 @@
 package co.com.sofka.trabajoFinal.cursosVirtuales.marketPlace.values;
 
+import java.util.Objects;
 import java.util.regex.*;
 import co.com.sofka.domain.generic.ValueObject;
 

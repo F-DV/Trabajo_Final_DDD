@@ -8,5 +8,5 @@ public class Perfil extends Entity<PerfilId> {
         super(entityId);
     }
 
-    
+
 }
