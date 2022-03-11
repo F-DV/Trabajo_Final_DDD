@@ -1,0 +1,5 @@
+
+G
+java:S1068"*Remove this unused "planId" private field.(—Ù’8ù‘°º÷/
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(€ï¹©
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Îˆ˜¾
