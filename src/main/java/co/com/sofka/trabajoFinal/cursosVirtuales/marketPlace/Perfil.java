@@ -7,4 +7,6 @@ public class Perfil extends Entity<PerfilId> {
     public Perfil(PerfilId entityId) {
         super(entityId);
     }
+
+    
 }

@@ -1,17 +1,17 @@
 package co.com.sofka.trabajoFinal.cursosVirtuales.marketPlace.event;
 
 import co.com.sofka.domain.generic.DomainEvent;
-import co.com.sofka.trabajoFinal.cursosVirtuales.marketPlace.Pago;
 import co.com.sofka.trabajoFinal.cursosVirtuales.marketPlace.values.PagoId;
 
-public class metodoDePagoAñadido extends DomainEvent {
+public class PagoCreado extends DomainEvent {
     private final PagoId pagoId;
 
-    public metodoDePagoAñadido(PagoId pagoId){
-        super("cuenta.añadirPago");
+    public PagoCreado(PagoId pagoId){
+        super("pago.pagocreado");
         this.pagoId = pagoId;
     }
 
-
-
+    public PagoId getPagoId(){
+        return pagoId;
+    }
 }

@@ -17,12 +17,8 @@ Vsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/Nomb
 Xsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/TipoPlan.java,c\3\c3831ba16139d559cc7db286318389da2999966e
 ó
 gsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/command/ActualizarMetodoDePago.java,7\c\7cb5fe697e90fbe4e49da23a29181bb3b0ff411e
-î
-dsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/command/A√±adirMetodoDePago.java,4\f\4f566dc4756033bc24f272f8698444370df20b96
 å
 \src/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/command/A√±adirPlan.java,e\5\e5b0dea68e8c17b84ef05904adb795c9bbc42bb7
-è
-_src/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/command/ActualizarPlan.java,b\f\bf391d885e58485bc56eb77eff6f817de4721104
 ì
 csrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/event/metodoDePagoA√±adido.java,0\c\0c0914e2c9dff934b9450210a184c5a24fb7cae4
 Ü
