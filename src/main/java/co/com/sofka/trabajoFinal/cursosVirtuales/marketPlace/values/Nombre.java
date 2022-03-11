@@ -8,7 +8,7 @@ public class Nombre implements ValueObject<Nombre.Props> {
     private final String apellidos;
 
     public Nombre(String nombres, String apellidos) {
-       
+
         this.nombres = Objects.requireNonNull(nombres);
         this.apellidos = Objects.requireNonNull(apellidos);
     }
