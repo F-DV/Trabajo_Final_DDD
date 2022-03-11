@@ -3,10 +3,6 @@
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
-…
-Usrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/Email.java,c\8\c8fd0b84e148f6a58d49771c7ffbee185abebdfa
-ˆ
-Xsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/Contacto.java,9\1\91b52b50aa969a5e06d2ba5ef2f093f333a24bd7
 †
 Vsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/Metodo.java,e\3\e3efb2282a5d9f37bc974add8b104095cf6fc1e4
 Ž

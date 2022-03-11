@@ -1,5 +1,6 @@
 package co.com.sofka.trabajoFinal.cursosVirtuales.marketPlace.values;
 
+import java.util.regex.*;
 import co.com.sofka.domain.generic.ValueObject;
 
 public class Email implements ValueObject<Email.Props> {
@@ -7,8 +8,10 @@ public class Email implements ValueObject<Email.Props> {
     private final String email;
 
     public Email(String email) {
-        //todo: Crear validaciones de email
-        this.email = email;
+        this.email = Objects.requireNonNull(email);
+        if(!email.matches("^[a-zA-Z0-9_!#$%&'*+/=?`{|}~^.-]+@[a-zA-Z0-9.-]+$")){
+            throw new IllegalArgumentException("El email contiene valores invalidos")
+        }
     }
 
     @Override
