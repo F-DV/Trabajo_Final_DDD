@@ -7,7 +7,7 @@ public class Contacto implements ValueObject<Contacto.Props> {
     private final String cuentaInstagram;
 
     public Contacto(long numeroCel, String cuentaFacebook, String cuentaInstagram) {
-        //todo: Crear validaciones
+        //todo: Crear validaciones de las cuentas
         this.numeroCel = numeroCel;
         this.cuentaFacebook = cuentaFacebook;
         this.cuentaInstagram = cuentaInstagram;

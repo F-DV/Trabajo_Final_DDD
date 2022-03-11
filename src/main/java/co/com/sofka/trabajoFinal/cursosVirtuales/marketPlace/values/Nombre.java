@@ -8,7 +8,7 @@ public class Nombre implements ValueObject<Nombre.Props> {
     private final String apellidos;
 
     public Nombre(String nombres, String apellidos) {
-        //todo: crear validaciones
+        //todo: crear validaciones del nombre y apellido
         this.nombres = nombres;
         this.apellidos = apellidos;
     }
