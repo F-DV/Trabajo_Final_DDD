@@ -6,7 +6,8 @@ public class TipoPlan implements ValueObject<TipoPlan.Tipo> {
     private final Tipo value;
 
     public TipoPlan(Tipo value) {
-        this.value = value;
+
+        this.value = Objects.requireNonNull(value);
     }
 
     @Override
