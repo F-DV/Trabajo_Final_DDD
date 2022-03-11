@@ -10,7 +10,7 @@ public class Email implements ValueObject<Email.Props> {
     public Email(String email) {
         this.email = Objects.requireNonNull(email);
         if(!email.matches("^[a-zA-Z0-9_!#$%&'*+/=?`{|}~^.-]+@[a-zA-Z0-9.-]+$")){
-            throw new IllegalArgumentException("El email contiene valores invalidos")
+            throw new IllegalArgumentException("El email contiene valores invalidos");
         }
     }
 
