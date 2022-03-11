@@ -7,8 +7,6 @@
 Vsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/Metodo.java,e\3\e3efb2282a5d9f37bc974add8b104095cf6fc1e4
 Ž
 ^src/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/FechaCaducidad.java,a\1\a1742a891e8fd86f096d41b8634bb535220d79ef
-†
-Vsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/Nombre.java,3\5\35f58cd69d6c38de9b0562a5acbc2b14b68c309d
 ˆ
 Xsrc/main/java/co/com/sofka/trabajoFinal/cursosVirtuales/marketPlace/values/TipoPlan.java,c\3\c3831ba16139d559cc7db286318389da2999966e
 —

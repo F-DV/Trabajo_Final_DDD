@@ -9,8 +9,8 @@ public class Nombre implements ValueObject<Nombre.Props> {
 
     public Nombre(String nombres, String apellidos) {
         //todo: crear validaciones del nombre y apellido
-        this.nombres = nombres;
-        this.apellidos = apellidos;
+        this.nombres = Objects.requireNonNull(nombres);
+        this.apellidos = Objects.requireNonNull(apellidos);
     }
 
     @Override
