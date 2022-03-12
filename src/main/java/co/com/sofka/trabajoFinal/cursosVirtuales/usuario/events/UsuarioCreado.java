@@ -1,24 +1,20 @@
 package co.com.sofka.trabajoFinal.cursosVirtuales.usuario.events;
 
 import co.com.sofka.domain.generic.DomainEvent;
+import co.com.sofka.trabajoFinal.cursosVirtuales.usuario.Datos;
 import co.com.sofka.trabajoFinal.cursosVirtuales.usuario.values.Email;
 import co.com.sofka.trabajoFinal.cursosVirtuales.usuario.values.Nombre;
 
 public class UsuarioCreado extends DomainEvent {
-    private final Nombre nombre;
-    private final Email email;
+    private final Datos datos;
 
-    public UsuarioCreado(Nombre nombre, Email email) {
+    public UsuarioCreado(Datos datos) {
         super("cursosvirtuales.usuario.usuariocreado");
-        this.nombre = nombre;
-        this.email = email;
+        this.datos = datos;
     }
 
-    public Nombre getNombre() {
-        return nombre;
+    public Datos getDatos() {
+        return datos;
     }
 
-    public Email getEmail() {
-        return email;
-    }
 }
