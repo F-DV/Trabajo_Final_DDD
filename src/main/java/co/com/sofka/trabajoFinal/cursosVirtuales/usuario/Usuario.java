@@ -1,7 +1,7 @@
 package co.com.sofka.trabajoFinal.cursosVirtuales.usuario;
 
 import co.com.sofka.domain.generic.AggregateEvent;
-import co.com.sofka.trabajoFinal.cursosVirtuales.usuario.value.UsuarioId;
+import co.com.sofka.trabajoFinal.cursosVirtuales.usuario.values.UsuarioId;
 
 public class Usuario extends AggregateEvent<UsuarioId> {
 
